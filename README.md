@@ -7,8 +7,8 @@
 
 ## IA: Inteligencia Artificial
 
-**Referencia**: https://docs.google.com/document/d/1ERemFngFGI1c8jkfclAn1xF4qXQZTpoKlBF07i0EsG0/edit?usp=sharing
-**Datasets**: https://archive.ics.uci.edu/
+**Referencia**: https://docs.google.com/document/d/1ERemFngFGI1c8jkfclAn1xF4qXQZTpoKlBF07i0EsG0/edit?usp=sharing <br>
+**Datasets**: https://archive.ics.uci.edu/ <br>
 **Horario**: https://docs.google.com/spreadsheets/d/1Tc2A8C5REcoJ3HLSIO11ICUdgPukmwMF8XNyldoRzAM/edit?usp=sharing
 
 ## MIyC: Metodologías de investigación y Compiladores
@@ -18,3 +18,5 @@
 ## Estado del arte
 
 - Web of science
+- Google academy
+- EBSCOhost
