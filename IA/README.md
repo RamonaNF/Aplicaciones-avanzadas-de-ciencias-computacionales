@@ -37,7 +37,7 @@ This paper analyzes the models below:
 2. `Gaussian Naive Bayes` (GNB)
 3. `Extreme Gradient Boosting` (XGBoost)
 4. `Random Forest`
-5. Artificial Neural Network-`Multilayer Layer Perceptron` (ANN-MLP)
+5. Artificial Neural Network-`Multilayer Perceptron` (ANN-MLP)
 
 And states that future work on this area could include feature selection, data preprocessing and some deep learning techniques to improve results and enhance performance.
 
@@ -57,7 +57,13 @@ To compare and evaluate the models, following metrics were used:
 
 #### ANN-MLP model
 
+> Identify complex relations
+
 This model with densely connected layers used ReLU activation functions in two hidden layers and softmax in the output layer, resulting in high scores regarding precision, recall and consequently, F1 score, presenting a balanced accuracy of around 90%.
+
+#### MLR model
+
+> Probability of belonging to each class
 
 ### References
 
