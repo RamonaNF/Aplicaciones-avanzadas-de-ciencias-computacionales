@@ -61,17 +61,27 @@ To compare and evaluate the models, following metrics were used:
 
 This model with densely connected layers used ReLU activation functions in two hidden layers and softmax in the output layer, resulting in high scores regarding precision, recall and consequently, F1 score, presenting a balanced accuracy of around 90%.
 
-#### MLR model
+### 2. Convolutional Neural Networks based classifications of soil images
 
-> Probability of belonging to each class
+Enhancements:
+ - 2 convolution layers
+ - Each followed by a Batch Normalization layer
+ - And average pooling layer
+
+Better alternatives are pretrained models (DCNN models)
+ - VGG-16 / VGG-19
 
 ### References
 
 1. Obasi, S. N. N., Pemberton, J., & Awe, O. O. (2024). _A comparative study of soil classification machine learning models for construction management_. International Journal of Construction Management, 25(5), 584–593. https://doi.org/10.1080/15623599.2024.2341500
+
+2. Lanjewar, M.G., Gurav, O.L. _Convolutional Neural Networks based classifications of soil images_. Multimed Tools Appl 81, 10313–10336 (2022). https://doi.org/10.1007/s11042-022-12200-y
 
 ## Model analysis
 
 https://www.youtube.com/watch?v=gkNccYwtAbU <br>
 https://www.evidentlyai.com/classification-metrics/multi-class-metrics
 
-### 1st model:
+### Simple model
+
+### Enhanced model
